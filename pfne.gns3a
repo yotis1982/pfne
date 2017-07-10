@@ -1,5 +1,5 @@
 {
-    "name": "Ubuntu1604-PFNE",
+    "name": "PFNE",
     "category": "guest",
     "description": "Ubuntu 16.04 image with all necessary tools for network engineers to learn Python.",
     "vendor_name": "Yotis",
