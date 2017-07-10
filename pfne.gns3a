@@ -1,0 +1,18 @@
+{
+    "name": "Ubuntu1604-PFNE",
+    "category": "guest",
+    "description": "Ubuntu 16.04 image with all necessary tools for network engineers to learn Python.",
+    "vendor_name": "Yotis",
+    "vendor_url": "https://firstdigest.com",
+    "product_name": "Ubuntu 16.04 - Python For Network Engineers",
+    "registry_version": 1,
+    "status": "stable",
+    "maintainer": "Calin C.",
+    "maintainer_email": "calin@firstdigest.com",
+    "symbol": "docker_guest.svg",
+    "docker": {
+        "adapters": 1,
+        "image": "yotis/ubuntu1604-pfne",
+        "console_type": "telnet"
+    }
+}
