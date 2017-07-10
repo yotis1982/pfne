@@ -1,5 +1,4 @@
-# ubuntu1604-pfne
-Ubuntu 16.04 - Python For Network Engineers
+# PFNE - Python For Network Engineers 
 
 pfne.gns3a - Python for Network Engineers based GNS3 Appliance
 
